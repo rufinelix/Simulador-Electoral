@@ -1,0 +1,1352 @@
+[
+  {
+    "name": "A Coruña",
+    "community": "GAL",
+    "seats": 8,
+    "parties_pct": {
+      "PP": 43.13,
+      "PSOE": 28.17,
+      "Vox": 5.08,
+      "Sumar": 12.19,
+      "BNG": 9.98
+    },
+    "parties_seats": {
+      "PP": 4,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 1,
+      "BNG": 1
+    },
+    "valid_votes": 677702,
+    "census": 922363,
+    "turnout_pct": 62.93,
+    "null_votes_pct": 0.8,
+    "blank_votes_pct": 0.77,
+    "name_es": "La Coruña",
+    "name_coofficial": "A Coruña",
+    "display_name": "A Coruña / La Coruña"
+  },
+  {
+    "name": "Albacete",
+    "community": "CLM",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 39.92,
+      "PSOE": 34.51,
+      "Vox": 16.61,
+      "Sumar": 7.16
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 221191,
+    "census": 308541,
+    "turnout_pct": 72.7,
+    "null_votes_pct": 1.22,
+    "blank_votes_pct": 0.83,
+    "name_es": "Albacete",
+    "name_coofficial": null,
+    "display_name": "Albacete"
+  },
+  {
+    "name": "Alicante/Alacant",
+    "community": "CVA",
+    "seats": 12,
+    "parties_pct": {
+      "PP": 36.73,
+      "PSOE": 32.0,
+      "Vox": 16.25,
+      "Sumar": 12.88
+    },
+    "parties_seats": {
+      "PP": 5,
+      "PSOE": 4,
+      "Vox": 2,
+      "Sumar": 1
+    },
+    "valid_votes": 899192,
+    "census": 1359229,
+    "turnout_pct": 69.57,
+    "null_votes_pct": 1.06,
+    "blank_votes_pct": 0.73,
+    "name_es": "Alicante",
+    "name_coofficial": "Alacant",
+    "display_name": "Alicante / Alacant"
+  },
+  {
+    "name": "Almería",
+    "community": "AND",
+    "seats": 6,
+    "parties_pct": {
+      "PP": 40.94,
+      "PSOE": 29.04,
+      "Vox": 21.28,
+      "Sumar": 6.69,
+      "Adelante Andalucía": 0.0
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 321242,
+    "census": 541093,
+    "turnout_pct": 62.86,
+    "null_votes_pct": 0.98,
+    "blank_votes_pct": 0.77,
+    "name_es": "Almería",
+    "name_coofficial": null,
+    "display_name": "Almería"
+  },
+  {
+    "name": "Araba/Álava",
+    "community": "PVA",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 17.87,
+      "PSOE": 27.66,
+      "Vox": 3.89,
+      "Sumar": 12.75,
+      "EH Bildu": 19.51,
+      "PNV": 16.6
+    },
+    "parties_seats": {
+      "PP": 1,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0,
+      "EH Bildu": 1,
+      "PNV": 1
+    },
+    "valid_votes": 169107,
+    "census": 267325,
+    "turnout_pct": 65.54,
+    "null_votes_pct": 0.84,
+    "blank_votes_pct": 0.43,
+    "name_es": "Álava",
+    "name_coofficial": "Araba",
+    "display_name": "Araba/Álava (Álava)"
+  },
+  {
+    "name": "Asturias",
+    "community": "AST",
+    "seats": 7,
+    "parties_pct": {
+      "PP": 35.65,
+      "PSOE": 34.34,
+      "Vox": 12.49,
+      "Sumar": 14.85
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 1
+    },
+    "valid_votes": 597032,
+    "census": 979077,
+    "turnout_pct": 62.9,
+    "null_votes_pct": 1.02,
+    "blank_votes_pct": 1.02,
+    "name_es": "Asturias",
+    "name_coofficial": "Asturies",
+    "display_name": "Asturias (Asturies)"
+  },
+  {
+    "name": "Badajoz",
+    "community": "EXT",
+    "seats": 5,
+    "parties_pct": {
+      "PP": 37.82,
+      "PSOE": 39.21,
+      "Vox": 13.66,
+      "Sumar": 6.84
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 391461,
+    "census": 552081,
+    "turnout_pct": 72.31,
+    "null_votes_pct": 1.7,
+    "blank_votes_pct": 0.82,
+    "name_es": "Badajoz",
+    "name_coofficial": null,
+    "display_name": "Badajoz"
+  },
+  {
+    "name": "Barcelona",
+    "community": "CAT",
+    "seats": 32,
+    "parties_pct": {
+      "PP": 13.78,
+      "PSOE": 35.7,
+      "Vox": 7.56,
+      "Sumar": 15.22,
+      "ERC": 12.32,
+      "Junts": 9.68
+    },
+    "parties_seats": {
+      "PP": 5,
+      "PSOE": 13,
+      "Vox": 2,
+      "Sumar": 5,
+      "ERC": 4,
+      "Junts": 3
+    },
+    "valid_votes": 2667478,
+    "census": 4398757,
+    "turnout_pct": 63.36,
+    "null_votes_pct": 0.79,
+    "blank_votes_pct": 0.79,
+    "name_es": "Barcelona",
+    "name_coofficial": "Barcelona",
+    "display_name": "Barcelona"
+  },
+  {
+    "name": "Bizkaia",
+    "community": "PVA",
+    "seats": 8,
+    "parties_pct": {
+      "PP": 11.57,
+      "PSOE": 25.82,
+      "Vox": 2.64,
+      "Sumar": 10.92,
+      "EH Bildu": 20.64,
+      "PNV": 26.93
+    },
+    "parties_seats": {
+      "PP": 1,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 1,
+      "EH Bildu": 2,
+      "PNV": 2
+    },
+    "valid_votes": 609693,
+    "census": 942982,
+    "turnout_pct": 65.21,
+    "null_votes_pct": 0.85,
+    "blank_votes_pct": 0.56,
+    "name_es": "Vizcaya",
+    "name_coofficial": "Bizkaia",
+    "display_name": "Bizkaia / Vizcaya"
+  },
+  {
+    "name": "Burgos",
+    "community": "CYL",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 40.64,
+      "PSOE": 34.45,
+      "Vox": 12.77,
+      "Sumar": 8.64
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 202569,
+    "census": 300630,
+    "turnout_pct": 69.12,
+    "null_votes_pct": 1.13,
+    "blank_votes_pct": 0.91,
+    "name_es": "Burgos",
+    "name_coofficial": null,
+    "display_name": "Burgos"
+  },
+  {
+    "name": "Cantabria",
+    "community": "CAN",
+    "seats": 5,
+    "parties_pct": {
+      "PP": 42.08,
+      "PSOE": 33.3,
+      "Vox": 14.06,
+      "Sumar": 8.49
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 350150,
+    "census": 523083,
+    "turnout_pct": 69.94,
+    "null_votes_pct": 1.41,
+    "blank_votes_pct": 0.93,
+    "name_es": "Cantabria",
+    "name_coofficial": null,
+    "display_name": "Cantabria"
+  },
+  {
+    "name": "Castellón/Castelló",
+    "community": "CVA",
+    "seats": 5,
+    "parties_pct": {
+      "PP": 35.17,
+      "PSOE": 32.65,
+      "Vox": 15.88,
+      "Sumar": 14.35
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 307930,
+    "census": 448196,
+    "turnout_pct": 72.32,
+    "null_votes_pct": 1.17,
+    "blank_votes_pct": 0.86,
+    "name_es": "Castellón",
+    "name_coofficial": "Castelló",
+    "display_name": "Castellón / Castelló"
+  },
+  {
+    "name": "Ceuta",
+    "community": "CEU",
+    "seats": 1,
+    "parties_pct": {
+      "PP": 38.77,
+      "PSOE": 34.01,
+      "Vox": 23.26,
+      "Sumar": 2.46
+    },
+    "parties_seats": {
+      "PP": 1,
+      "PSOE": 0,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 33321,
+    "census": 65591,
+    "turnout_pct": 53.19,
+    "null_votes_pct": 1.05,
+    "blank_votes_pct": 0.98,
+    "name_es": "Ceuta",
+    "name_coofficial": null,
+    "display_name": "Ceuta"
+  },
+  {
+    "name": "Ciudad Real",
+    "community": "CLM",
+    "seats": 5,
+    "parties_pct": {
+      "PP": 40.54,
+      "PSOE": 35.37,
+      "Vox": 16.27,
+      "Sumar": 6.15
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 282979,
+    "census": 393421,
+    "turnout_pct": 73.28,
+    "null_votes_pct": 1.36,
+    "blank_votes_pct": 0.83,
+    "name_es": "Ciudad Real",
+    "name_coofficial": null,
+    "display_name": "Ciudad Real"
+  },
+  {
+    "name": "Cuenca",
+    "community": "CLM",
+    "seats": 3,
+    "parties_pct": {
+      "PP": 39.76,
+      "PSOE": 37.37,
+      "Vox": 15.55,
+      "Sumar": 5.56
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 113808,
+    "census": 151410,
+    "turnout_pct": 75.5,
+    "null_votes_pct": 1.28,
+    "blank_votes_pct": 0.85,
+    "name_es": "Cuenca",
+    "name_coofficial": null,
+    "display_name": "Cuenca"
+  },
+  {
+    "name": "Cáceres",
+    "community": "EXT",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 38.0,
+      "PSOE": 38.88,
+      "Vox": 13.6,
+      "Sumar": 6.93
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 235851,
+    "census": 339508,
+    "turnout_pct": 70.62,
+    "null_votes_pct": 1.63,
+    "blank_votes_pct": 0.73,
+    "name_es": "Cáceres",
+    "name_coofficial": null,
+    "display_name": "Cáceres"
+  },
+  {
+    "name": "Cádiz",
+    "community": "AND",
+    "seats": 8,
+    "parties_pct": {
+      "PP": 34.8,
+      "PSOE": 33.15,
+      "Vox": 15.18,
+      "Sumar": 12.89,
+      "Adelante Andalucía": 1.42
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 3,
+      "Vox": 1,
+      "Sumar": 1
+    },
+    "valid_votes": 637098,
+    "census": 1042157,
+    "turnout_pct": 63.34,
+    "null_votes_pct": 1.19,
+    "blank_votes_pct": 1.11,
+    "name_es": "Cádiz",
+    "name_coofficial": null,
+    "display_name": "Cádiz"
+  },
+  {
+    "name": "Córdoba",
+    "community": "AND",
+    "seats": 6,
+    "parties_pct": {
+      "PP": 37.89,
+      "PSOE": 32.12,
+      "Vox": 13.94,
+      "Sumar": 13.73,
+      "Adelante Andalucía": 0.0
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 1
+    },
+    "valid_votes": 448602,
+    "census": 648792,
+    "turnout_pct": 70.6,
+    "null_votes_pct": 1.53,
+    "blank_votes_pct": 0.97,
+    "name_es": "Córdoba",
+    "name_coofficial": null,
+    "display_name": "Córdoba"
+  },
+  {
+    "name": "Gipuzkoa",
+    "community": "PVA",
+    "seats": 6,
+    "parties_pct": {
+      "PP": 8.69,
+      "PSOE": 23.29,
+      "Vox": 2.09,
+      "Sumar": 10.64,
+      "EH Bildu": 31.15,
+      "PNV": 22.58
+    },
+    "parties_seats": {
+      "PP": 0,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 0,
+      "EH Bildu": 2,
+      "PNV": 2
+    },
+    "valid_votes": 376621,
+    "census": 597859,
+    "turnout_pct": 64.68,
+    "null_votes_pct": 0.62,
+    "blank_votes_pct": 0.53,
+    "name_es": "Guipúzcoa",
+    "name_coofficial": "Gipuzkoa",
+    "display_name": "Gipuzkoa / Guipúzcoa"
+  },
+  {
+    "name": "Girona",
+    "community": "CAT",
+    "seats": 6,
+    "parties_pct": {
+      "PP": 9.7,
+      "PSOE": 28.93,
+      "Vox": 7.03,
+      "Sumar": 10.94,
+      "ERC": 14.72,
+      "Junts": 19.58
+    },
+    "parties_seats": {
+      "PP": 0,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 1,
+      "ERC": 1,
+      "Junts": 2
+    },
+    "valid_votes": 322988,
+    "census": 575269,
+    "turnout_pct": 59.88,
+    "null_votes_pct": 1.27,
+    "blank_votes_pct": 0.92,
+    "name_es": "Gerona",
+    "name_coofficial": "Girona",
+    "display_name": "Girona / Gerona"
+  },
+  {
+    "name": "Granada",
+    "community": "AND",
+    "seats": 7,
+    "parties_pct": {
+      "PP": 36.99,
+      "PSOE": 32.98,
+      "Vox": 16.12,
+      "Sumar": 11.65,
+      "Adelante Andalucía": 0.0
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 1
+    },
+    "valid_votes": 502845,
+    "census": 791066,
+    "turnout_pct": 66.56,
+    "null_votes_pct": 1.3,
+    "blank_votes_pct": 0.81,
+    "name_es": "Granada",
+    "name_coofficial": null,
+    "display_name": "Granada"
+  },
+  {
+    "name": "Guadalajara",
+    "community": "CLM",
+    "seats": 3,
+    "parties_pct": {
+      "PP": 36.33,
+      "PSOE": 32.98,
+      "Vox": 19.25,
+      "Sumar": 9.16
+    },
+    "parties_seats": {
+      "PP": 1,
+      "PSOE": 1,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 140913,
+    "census": 208773,
+    "turnout_pct": 72.47,
+    "null_votes_pct": 1.28,
+    "blank_votes_pct": 0.81,
+    "name_es": "Guadalajara",
+    "name_coofficial": null,
+    "display_name": "Guadalajara"
+  },
+  {
+    "name": "Huelva",
+    "community": "AND",
+    "seats": 5,
+    "parties_pct": {
+      "PP": 36.43,
+      "PSOE": 35.95,
+      "Vox": 14.63,
+      "Sumar": 10.42,
+      "Adelante Andalucía": 0.0
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 256804,
+    "census": 408911,
+    "turnout_pct": 64.81,
+    "null_votes_pct": 1.56,
+    "blank_votes_pct": 0.94,
+    "name_es": "Huelva",
+    "name_coofficial": null,
+    "display_name": "Huelva"
+  },
+  {
+    "name": "Huesca",
+    "community": "ARA",
+    "seats": 3,
+    "parties_pct": {
+      "PP": 38.19,
+      "PSOE": 33.62,
+      "Vox": 12.64,
+      "Sumar": 11.49
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 119895,
+    "census": 175954,
+    "turnout_pct": 69.87,
+    "null_votes_pct": 1.03,
+    "blank_votes_pct": 1.02,
+    "name_es": "Huesca",
+    "name_coofficial": "Uesca",
+    "display_name": "Huesca (Uesca)"
+  },
+  {
+    "name": "Illes Balears",
+    "community": "IBA",
+    "seats": 8,
+    "parties_pct": {
+      "PP": 35.63,
+      "PSOE": 30.16,
+      "Vox": 15.21,
+      "Sumar": 16.59
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 3,
+      "Vox": 1,
+      "Sumar": 1
+    },
+    "valid_votes": 503280,
+    "census": 870718,
+    "turnout_pct": 61.32,
+    "null_votes_pct": 0.97,
+    "blank_votes_pct": 0.93,
+    "name_es": "Islas Baleares",
+    "name_coofficial": "Illes Balears",
+    "display_name": "Illes Balears / Islas Baleares"
+  },
+  {
+    "name": "Jaén",
+    "community": "AND",
+    "seats": 5,
+    "parties_pct": {
+      "PP": 37.32,
+      "PSOE": 36.29,
+      "Vox": 14.75,
+      "Sumar": 7.99,
+      "Adelante Andalucía": 0.0
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 368731,
+    "census": 515524,
+    "turnout_pct": 72.08,
+    "null_votes_pct": 1.32,
+    "blank_votes_pct": 0.68,
+    "name_es": "Jaén",
+    "name_coofficial": null,
+    "display_name": "Jaén"
+  },
+  {
+    "name": "La Rioja",
+    "community": "RIO",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 45.64,
+      "PSOE": 35.68,
+      "Vox": 9.77,
+      "Sumar": 6.57
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 174663,
+    "census": 259798,
+    "turnout_pct": 70.19,
+    "null_votes_pct": 1.29,
+    "blank_votes_pct": 0.92,
+    "name_es": "La Rioja",
+    "name_coofficial": null,
+    "display_name": "La Rioja"
+  },
+  {
+    "name": "Las Palmas",
+    "community": "ICA",
+    "seats": 8,
+    "parties_pct": {
+      "PP": 25.85,
+      "PSOE": 33.19,
+      "Vox": 14.61,
+      "Sumar": 10.27,
+      "CC": 6.34
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 3,
+      "Vox": 1,
+      "Sumar": 1,
+      "CC": 0
+    },
+    "valid_votes": 529337,
+    "census": 939211,
+    "turnout_pct": 59.51,
+    "null_votes_pct": 1.04,
+    "blank_votes_pct": 0.58,
+    "name_es": "Las Palmas",
+    "name_coofficial": null,
+    "display_name": "Las Palmas"
+  },
+  {
+    "name": "León",
+    "community": "CYL",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 36.92,
+      "PSOE": 33.64,
+      "Vox": 12.88,
+      "Sumar": 6.75
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 275240,
+    "census": 425983,
+    "turnout_pct": 65.67,
+    "null_votes_pct": 0.9,
+    "blank_votes_pct": 0.57,
+    "name_es": "León",
+    "name_coofficial": "Llión",
+    "display_name": "León"
+  },
+  {
+    "name": "Lleida",
+    "community": "CAT",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 12.84,
+      "PSOE": 29.49,
+      "Vox": 6.81,
+      "Sumar": 7.89,
+      "ERC": 18.6,
+      "Junts": 18.01
+    },
+    "parties_seats": {
+      "PP": 0,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 0,
+      "ERC": 1,
+      "Junts": 1
+    },
+    "valid_votes": 184539,
+    "census": 326300,
+    "turnout_pct": 58.93,
+    "null_votes_pct": 1.28,
+    "blank_votes_pct": 1.12,
+    "name_es": "Lérida",
+    "name_coofficial": "Lleida",
+    "display_name": "Lleida / Lérida"
+  },
+  {
+    "name": "Lugo",
+    "community": "GAL",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 50.24,
+      "PSOE": 30.3,
+      "Vox": 4.35,
+      "Sumar": 5.18,
+      "BNG": 8.66
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0,
+      "BNG": 0
+    },
+    "valid_votes": 198566,
+    "census": 341031,
+    "turnout_pct": 59.42,
+    "null_votes_pct": 1.07,
+    "blank_votes_pct": 0.63,
+    "name_es": "Lugo",
+    "name_coofficial": "Lugo",
+    "display_name": "Lugo"
+  },
+  {
+    "name": "Madrid",
+    "community": "MAD",
+    "seats": 38,
+    "parties_pct": {
+      "PP": 40.55,
+      "PSOE": 27.84,
+      "Vox": 14.03,
+      "Sumar": 15.46
+    },
+    "parties_seats": {
+      "PP": 16,
+      "PSOE": 11,
+      "Vox": 5,
+      "Sumar": 6
+    },
+    "valid_votes": 3608673,
+    "census": 5536913,
+    "turnout_pct": 69.66,
+    "null_votes_pct": 0.85,
+    "blank_votes_pct": 0.8,
+    "name_es": "Madrid",
+    "name_coofficial": null,
+    "display_name": "Madrid"
+  },
+  {
+    "name": "Melilla",
+    "community": "MEL",
+    "seats": 1,
+    "parties_pct": {
+      "PP": 49.16,
+      "PSOE": 25.39,
+      "Vox": 15.94,
+      "Sumar": 3.02
+    },
+    "parties_seats": {
+      "PP": 1,
+      "PSOE": 0,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 27349,
+    "census": 63968,
+    "turnout_pct": 45.24,
+    "null_votes_pct": 1.09,
+    "blank_votes_pct": 0.93,
+    "name_es": "Melilla",
+    "name_coofficial": null,
+    "display_name": "Melilla"
+  },
+  {
+    "name": "Murcia",
+    "community": "RMU",
+    "seats": 10,
+    "parties_pct": {
+      "PP": 41.18,
+      "PSOE": 25.3,
+      "Vox": 21.81,
+      "Sumar": 9.57
+    },
+    "parties_seats": {
+      "PP": 4,
+      "PSOE": 3,
+      "Vox": 2,
+      "Sumar": 1
+    },
+    "valid_votes": 747797,
+    "census": 1144308,
+    "turnout_pct": 68.68,
+    "null_votes_pct": 0.99,
+    "blank_votes_pct": 0.67,
+    "name_es": "Murcia",
+    "name_coofficial": null,
+    "display_name": "Murcia"
+  },
+  {
+    "name": "Málaga",
+    "community": "AND",
+    "seats": 11,
+    "parties_pct": {
+      "PP": 38.31,
+      "PSOE": 30.34,
+      "Vox": 16.46,
+      "Sumar": 12.26,
+      "Adelante Andalucía": 0.0
+    },
+    "parties_seats": {
+      "PP": 5,
+      "PSOE": 3,
+      "Vox": 2,
+      "Sumar": 1
+    },
+    "valid_votes": 788338,
+    "census": 1292972,
+    "turnout_pct": 64.41,
+    "null_votes_pct": 1.28,
+    "blank_votes_pct": 0.95,
+    "name_es": "Málaga",
+    "name_coofficial": null,
+    "display_name": "Málaga"
+  },
+  {
+    "name": "Navarra",
+    "community": "NAV",
+    "seats": 5,
+    "parties_pct": {
+      "PP": 16.71,
+      "PSOE": 27.37,
+      "Vox": 5.7,
+      "Sumar": 12.85,
+      "EH Bildu": 17.25,
+      "UPN": 15.27
+    },
+    "parties_seats": {
+      "PP": 1,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 0,
+      "EH Bildu": 1,
+      "UPN": 1
+    },
+    "valid_votes": 341844,
+    "census": 537194,
+    "turnout_pct": 66.37,
+    "null_votes_pct": 0.94,
+    "blank_votes_pct": 0.85,
+    "name_es": "Navarra",
+    "name_coofficial": "Nafarroa",
+    "display_name": "Navarra / Nafarroa"
+  },
+  {
+    "name": "Ourense",
+    "community": "GAL",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 50.02,
+      "PSOE": 30.08,
+      "Vox": 4.87,
+      "Sumar": 5.46,
+      "BNG": 8.22
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0,
+      "BNG": 0
+    },
+    "valid_votes": 186271,
+    "census": 360252,
+    "turnout_pct": 52.86,
+    "null_votes_pct": 0.95,
+    "blank_votes_pct": 0.6,
+    "name_es": "Orense",
+    "name_coofficial": "Ourense",
+    "display_name": "Ourense / Orense"
+  },
+  {
+    "name": "Palencia",
+    "community": "CYL",
+    "seats": 3,
+    "parties_pct": {
+      "PP": 41.98,
+      "PSOE": 34.67,
+      "Vox": 12.9,
+      "Sumar": 6.06
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 96962,
+    "census": 137466,
+    "turnout_pct": 71.26,
+    "null_votes_pct": 1.14,
+    "blank_votes_pct": 0.86,
+    "name_es": "Palencia",
+    "name_coofficial": null,
+    "display_name": "Palencia"
+  },
+  {
+    "name": "Pontevedra",
+    "community": "GAL",
+    "seats": 7,
+    "parties_pct": {
+      "PP": 39.72,
+      "PSOE": 31.36,
+      "Vox": 4.81,
+      "Sumar": 13.19,
+      "BNG": 9.39
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 3,
+      "Vox": 0,
+      "Sumar": 1,
+      "BNG": 0
+    },
+    "valid_votes": 573124,
+    "census": 926408,
+    "turnout_pct": 63.68,
+    "null_votes_pct": 1.04,
+    "blank_votes_pct": 0.67,
+    "name_es": "Pontevedra",
+    "name_coofficial": "Pontevedra",
+    "display_name": "Pontevedra"
+  },
+  {
+    "name": "Salamanca",
+    "community": "CYL",
+    "seats": 4,
+    "parties_pct": {
+      "PP": 46.87,
+      "PSOE": 30.49,
+      "Vox": 14.67,
+      "Sumar": 5.53
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 199110,
+    "census": 304762,
+    "turnout_pct": 67.03,
+    "null_votes_pct": 1.15,
+    "blank_votes_pct": 0.83,
+    "name_es": "Salamanca",
+    "name_coofficial": null,
+    "display_name": "Salamanca"
+  },
+  {
+    "name": "Santa Cruz de Tenerife",
+    "community": "ICA",
+    "seats": 7,
+    "parties_pct": {
+      "PP": 35.35,
+      "PSOE": 33.49,
+      "Sumar": 10.85,
+      "CC": 16.75
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 3,
+      "Sumar": 0,
+      "CC": 1
+    },
+    "valid_votes": 494373,
+    "census": 927138,
+    "turnout_pct": 56.83,
+    "null_votes_pct": 1.28,
+    "blank_votes_pct": 1.03,
+    "name_es": "Santa Cruz de Tenerife",
+    "name_coofficial": null,
+    "display_name": "Santa Cruz de Tenerife"
+  },
+  {
+    "name": "Segovia",
+    "community": "CYL",
+    "seats": 3,
+    "parties_pct": {
+      "PP": 45.02,
+      "PSOE": 30.6,
+      "Vox": 14.12,
+      "Sumar": 8.05
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 88613,
+    "census": 121460,
+    "turnout_pct": 75.3,
+    "null_votes_pct": 1.48,
+    "blank_votes_pct": 0.99,
+    "name_es": "Segovia",
+    "name_coofficial": null,
+    "display_name": "Segovia"
+  },
+  {
+    "name": "Sevilla",
+    "community": "AND",
+    "seats": 12,
+    "parties_pct": {
+      "PP": 33.38,
+      "PSOE": 36.6,
+      "Vox": 13.32,
+      "Sumar": 14.04,
+      "Adelante Andalucía": 0.0
+    },
+    "parties_seats": {
+      "PP": 4,
+      "PSOE": 5,
+      "Vox": 1,
+      "Sumar": 2
+    },
+    "valid_votes": 1059358,
+    "census": 1606972,
+    "turnout_pct": 68.74,
+    "null_votes_pct": 1.47,
+    "blank_votes_pct": 1.03,
+    "name_es": "Sevilla",
+    "name_coofficial": null,
+    "display_name": "Sevilla"
+  },
+  {
+    "name": "Soria",
+    "community": "CYL",
+    "seats": 2,
+    "parties_pct": {
+      "PP": 37.22,
+      "PSOE": 29.48,
+      "Vox": 9.81,
+      "Sumar": 3.37
+    },
+    "parties_seats": {
+      "PP": 1,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 50769,
+    "census": 77069,
+    "turnout_pct": 67.52,
+    "null_votes_pct": 0.76,
+    "blank_votes_pct": 0.56,
+    "name_es": "Soria",
+    "name_coofficial": null,
+    "display_name": "Soria"
+  },
+  {
+    "name": "Tarragona",
+    "community": "CAT",
+    "seats": 6,
+    "parties_pct": {
+      "PP": 13.87,
+      "PSOE": 32.91,
+      "Vox": 10.34,
+      "Sumar": 11.34,
+      "ERC": 15.07,
+      "Junts": 11.08
+    },
+    "parties_seats": {
+      "PP": 1,
+      "PSOE": 2,
+      "Vox": 0,
+      "Sumar": 1,
+      "ERC": 1,
+      "Junts": 1
+    },
+    "valid_votes": 368024,
+    "census": 626161,
+    "turnout_pct": 62.42,
+    "null_votes_pct": 1.18,
+    "blank_votes_pct": 0.86,
+    "name_es": "Tarragona",
+    "name_coofficial": "Tarragona",
+    "display_name": "Tarragona"
+  },
+  {
+    "name": "Teruel",
+    "community": "ARA",
+    "seats": 3,
+    "parties_pct": {
+      "PP": 35.02,
+      "PSOE": 29.28,
+      "Vox": 13.08,
+      "Sumar": 5.44
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 75913,
+    "census": 106251,
+    "turnout_pct": 71.99,
+    "null_votes_pct": 0.85,
+    "blank_votes_pct": 0.54,
+    "name_es": "Teruel",
+    "name_coofficial": null,
+    "display_name": "Teruel"
+  },
+  {
+    "name": "Toledo",
+    "community": "CLM",
+    "seats": 6,
+    "parties_pct": {
+      "PP": 37.84,
+      "PSOE": 32.56,
+      "Vox": 19.64,
+      "Sumar": 8.23
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 387200,
+    "census": 569549,
+    "turnout_pct": 72.43,
+    "null_votes_pct": 1.47,
+    "blank_votes_pct": 0.67,
+    "name_es": "Toledo",
+    "name_coofficial": null,
+    "display_name": "Toledo"
+  },
+  {
+    "name": "Valencia/València",
+    "community": "CVA",
+    "seats": 16,
+    "parties_pct": {
+      "PP": 33.64,
+      "PSOE": 32.1,
+      "Vox": 15.21,
+      "Sumar": 16.9
+    },
+    "parties_seats": {
+      "PP": 6,
+      "PSOE": 5,
+      "Vox": 2,
+      "Sumar": 3
+    },
+    "valid_votes": 1437161,
+    "census": 2067797,
+    "turnout_pct": 72.58,
+    "null_votes_pct": 0.97,
+    "blank_votes_pct": 0.75,
+    "name_es": "Valencia",
+    "name_coofficial": "València",
+    "display_name": "Valencia / València"
+  },
+  {
+    "name": "Valladolid",
+    "community": "CYL",
+    "seats": 5,
+    "parties_pct": {
+      "PP": 40.84,
+      "PSOE": 32.75,
+      "Vox": 15.16,
+      "Sumar": 8.87
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 0
+    },
+    "valid_votes": 316309,
+    "census": 440219,
+    "turnout_pct": 74.02,
+    "null_votes_pct": 0.94,
+    "blank_votes_pct": 0.76,
+    "name_es": "Valladolid",
+    "name_coofficial": null,
+    "display_name": "Valladolid"
+  },
+  {
+    "name": "Zamora",
+    "community": "CYL",
+    "seats": 3,
+    "parties_pct": {
+      "PP": 44.67,
+      "PSOE": 32.49,
+      "Vox": 13.2,
+      "Sumar": 5.65
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 103410,
+    "census": 162251,
+    "turnout_pct": 64.22,
+    "null_votes_pct": 1.2,
+    "blank_votes_pct": 0.89,
+    "name_es": "Zamora",
+    "name_coofficial": null,
+    "display_name": "Zamora"
+  },
+  {
+    "name": "Zaragoza",
+    "community": "ARA",
+    "seats": 7,
+    "parties_pct": {
+      "PP": 36.01,
+      "PSOE": 30.82,
+      "Vox": 15.3,
+      "Sumar": 13.48
+    },
+    "parties_seats": {
+      "PP": 3,
+      "PSOE": 2,
+      "Vox": 1,
+      "Sumar": 1
+    },
+    "valid_votes": 518705,
+    "census": 760968,
+    "turnout_pct": 70.73,
+    "null_votes_pct": 0.9,
+    "blank_votes_pct": 0.9,
+    "name_es": "Zaragoza",
+    "name_coofficial": "Zaragoza",
+    "display_name": "Zaragoza"
+  },
+  {
+    "name": "Ávila",
+    "community": "CYL",
+    "seats": 3,
+    "parties_pct": {
+      "PP": 43.25,
+      "PSOE": 27.39,
+      "Vox": 15.38,
+      "Sumar": 5.13
+    },
+    "parties_seats": {
+      "PP": 2,
+      "PSOE": 1,
+      "Vox": 0,
+      "Sumar": 0
+    },
+    "valid_votes": 97956,
+    "census": 136598,
+    "turnout_pct": 72.53,
+    "null_votes_pct": 1.17,
+    "blank_votes_pct": 0.65,
+    "name_es": "Ávila",
+    "name_coofficial": null,
+    "display_name": "Ávila"
+  }
+]
